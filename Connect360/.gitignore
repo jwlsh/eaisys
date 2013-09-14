@@ -1,0 +1,18 @@
+# Eclipse
+.settings*
+.metadata 
+.springBeans
+bin
+classes
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
