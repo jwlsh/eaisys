@@ -15,7 +15,7 @@
 		<!-- Web -->
 		<jsp.version>2.2</jsp.version>
 		<jstl.version>1.2</jstl.version>
-		<servlet.version>2.5</servlet.version>
+		<servlet.version>3.0</servlet.version>
 		<sitemesh.version>2.4.2</sitemesh.version>
 		
 		<!-- Spring -->
